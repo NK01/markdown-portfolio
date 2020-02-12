@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Nishant Kumar
+## PhD Candidate
+## Seoul National University
