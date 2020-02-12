@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### The list of some things
+
+1. Mango
+2. Banana
+  * the yellow :smile:
+    * new list
